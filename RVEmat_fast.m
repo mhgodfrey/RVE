@@ -1,6 +1,6 @@
 function AllEntropy = RVEmat_fast(cfg)
 %
-% function Entropy = RVEmat(cfg);
+% function AllEntropy = RVEmat_fast(cfg);
 %
 % Compute the Rank Vector Entropy as in Robinson 2012 Frontiers Comp Neuro
 %
