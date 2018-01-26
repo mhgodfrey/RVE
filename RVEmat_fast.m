@@ -28,14 +28,6 @@ function AllEntropy = RVEmat_fast(cfg)
 % SM 2013 based on Matt Brookes code
 % Updated by Megan Godfrey 2018
 
-% cfg.Data
-% cfg.SampleFreq
-% cfg.LowpassFreq
-% cfg.SlidingWindow
-% cfg.
-% cfg.
-% cfg.Overlap=8;
-
 warning off
 %% Define variables
 VE = cfg.Data;
