@@ -1,5 +1,5 @@
 # RVE
-Alterations to the original rank-vector-entropy Matlab code
+Alterations to the original rank-vector-entropy Matlab code (Robinson 2012)
 
 RVEmat.m takes data from all channels at once (input as Nchannels x Nsamples) and gives 
 RVE timecourses in a matrix with the same dimensions.
